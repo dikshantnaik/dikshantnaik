@@ -2,7 +2,7 @@
     <a target="_blank">
       <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Earth.gif" width="24px" style="max-width:100%;">
     </a>
-    Hey, there This Is Sanskar
+    Hey, there This Is Dikshant
     <a target="_blank">
       <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Hi.gif" width="40px" />
     </a>
@@ -19,9 +19,8 @@
   - 👯 I’m looking to collaborate for my tech community <a href='https://www.groupofcode.com/' target='blank'>Group Of Code</a>
   - 🤔 I’m looking for help with React Js
   - 💬 Ask me about Python programming and automation using python, how to work with Google Cloud Resources , how to get started with opensource and communities , and DBMS.
-  - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/sanskar-dwivedi-a20201200/'>Sanskar Dwivedi</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/sanskardwived/'>@sanskardwived</a> 
-  - 😄 Pronouns: he/his/him
-  - ⚡ About Me: Potter Head⚡ and a Bibliomaniac
+  - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/dikshant-naik-799b1812a/'>Dikshant Naik</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/dikshant_naik/'>@sanskardwived</a> 
+    
     <summary>
     <h1 align="center"><a target="_blank">
       <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
@@ -39,12 +38,12 @@
   </code>
   </h1>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Knighthawk-Leo&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dikshantnaik&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
     
 <p align="center">
-  <a href="https://github.com/Knighthawk-Leo">
-  <img height="125" width="150" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Knighthawk-Leo&theme=dark&hide_border=true"/>
+  <a href="https://github.com/dikshantnaik">
+  <img height="125" width="150" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/left.png">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantnaik&theme=dark&hide_border=true"/>
   <img height="125" width="150" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/right.png">
   </a>
 </p>
@@ -94,9 +93,9 @@
   <br> -->
     
   <p align="center">
-  <a href="https://github.com/Knighthawk-Leo">
-    <img width="65%" src="https://github-readme-stats.vercel.app/api?username=Knighthawk-Leo&show_icons=true&theme=tokyonight" />
-    <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Knighthawk-Leo&count_private=true&theme=tokyonight" />
+  <a href="https://github.com/dikshantnaik">
+    <img width="65%" src="https://github-readme-stats.vercel.app/api?username=dikshantnaik&show_icons=true&theme=tokyonight" />
+    <img width="27%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dikshantnaik&count_private=true&theme=tokyonight" />
   </a>
   </p>
   </details>
