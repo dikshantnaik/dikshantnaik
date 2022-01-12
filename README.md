@@ -1,26 +1,29 @@
  <a target="_blank"><img align="center" height="400" width="900" alt="GIF" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/gihub.gif"></a>
   <br/>
-  <a target="_blank">
+<!--   <a target="_blank">
           <img align="right" height="300" width="300" alt="GIF" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/house.png">
-  </a>
+  </a> -->
   
   
   - 🔭 I’m currently working on Data Structures and Algorithms
   - 🌱 I’m currently learning Data Structures and Algorithms.
   - 🤔 I’m looking for help with React Js
   - 💬 Ask me about Python programming and automation using python, how to work with Google Cloud Resources , how to get started with opensource and communities , and DBMS.
-  - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/dikshant-naik-799b1812a/'>Dikshant Naik</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/dikshant_naik/'>@sanskardwived</a> 
+  - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/dikshant-naik-799b1812a/'>Dikshant Naik</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/dikshant_naik/'>@dikshant_naik</a> 
     
-    <summary>
-    <h1 align="center"><a target="_blank">
-      <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
-    </a>
-        :Github Profile Stats:
-  
-    <a target="_blank">
-      <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
-    </a></h1>
-  </summary>
+ # Pinned
+ <p align="center">
+<a href="https://github.com/dikshantnaik/Course-Mangment-System-PHP">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantnaik&repo=Course-Mangment-System-PHP&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/dikshantnaik/disney-plus-clone">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=dikshantnaik&repo=LeatCodes&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+ 
+ #                 Github Profile Stats:
+
 
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=dikshantnaik&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
