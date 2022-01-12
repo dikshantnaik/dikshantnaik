@@ -1,13 +1,4 @@
-<h1 align="center">
-    <a target="_blank">
-      <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Earth.gif" width="24px" style="max-width:100%;">
-    </a>
-    Hey, there This Is Dikshant
-    <a target="_blank">
-      <img src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/Hi.gif" width="40px" />
-    </a>
-  </h1>
-  <br/>
+ <a target="_blank"><img align="center" height="400" width="900" alt="GIF" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/gihub.gif"></a>
   <br/>
   <a target="_blank">
           <img align="right" height="300" width="300" alt="GIF" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/house.png">
@@ -45,7 +36,7 @@
     
     
     
-   <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/gihub.gif"></a>
+   <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/github.gif"></a>
   <br/> 
     
   **LANGUAGES AND TOOLS:**  
