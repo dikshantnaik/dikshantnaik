@@ -45,7 +45,7 @@
     
     
     
-   <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/gihub.gif"></a>
+   <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/gihub.gif"></a>
   <br/> 
     
   **LANGUAGES AND TOOLS:**  
