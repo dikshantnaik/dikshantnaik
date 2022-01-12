@@ -16,7 +16,6 @@
   
   - 🔭 I’m currently working on Data Structures and Algorithms
   - 🌱 I’m currently learning Data Structures and Algorithms.
-  - 👯 I’m looking to collaborate for my tech community <a href='https://www.groupofcode.com/' target='blank'>Group Of Code</a>
   - 🤔 I’m looking for help with React Js
   - 💬 Ask me about Python programming and automation using python, how to work with Google Cloud Resources , how to get started with opensource and communities , and DBMS.
   - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/dikshant-naik-799b1812a/'>Dikshant Naik</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/dikshant_naik/'>@sanskardwived</a> 
@@ -25,18 +24,13 @@
     <h1 align="center"><a target="_blank">
       <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
     </a>
-        My Octocat
+        :Github Profile Stats:
   
     <a target="_blank">
       <img src="https://i.pinimg.com/originals/73/ed/50/73ed50d9bfde8459aa2407f561224508.png" width="40px" />
     </a></h1>
   </summary>
-  <h1 align="center">
-  <code align="center">
-      :Github Profile Stats:
-  
-  </code>
-  </h1>
+
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=dikshantnaik&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
     
