@@ -5,10 +5,9 @@
   </a> -->
   
   
-  - 🔭 I’m currently working on Data Structures and Algorithms
+  - 🔭 I’m currently a Intern at <a href='https://play.google.com/store/apps/details?id=com.cryptograminfotech.cryptogram_messenger'>Cryprogram App</a> as a <b><i> Backend Developer </i> </b>
   - 🌱 I’m currently learning Data Structures and Algorithms.
-  - 🤔 I’m looking for help with React Js
-  - 💬 Ask me about Python programming and automation using python, how to work with Google Cloud Resources , how to get started with opensource and communities , and DBMS.
+  - 💬 Ask me about Python programming, Automation, BlockChain, DBMS, Linux,Cloud Computing.
   - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/dikshant-naik-799b1812a/'>Dikshant Naik</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/dikshant_naik/'>@dikshant_naik</a> 
     
  # Pinned
