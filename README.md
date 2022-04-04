@@ -28,12 +28,14 @@
   [![trophy](https://github-profile-trophy.vercel.app/?username=dikshantnaik&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/Knighthawk-Leo)
     
 <p align="center">
-  <a href="https://github.com/dikshantnaik">
-  <img height="125" width="150" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/left.png">
+<!--   <a href="https://github.com/dikshantnaik"> -->
+<!--   <img height="125" width="150" src="https://github.com/dikshantnaik/dikshantnaik/blob/main/left.png"> -->
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshantnaik&theme=dark&hide_border=true"/>
-  <img height="125" width="150" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/right.png">
-  </a>
+<!--   <img height="125" width="150" src="https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/right.png"> -->
+<!--   </a> -->
 </p>
+ 
+ [![Dikshant's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dikshantnaik&theme=github)](https://activity-graph.herokuapp.com/graph?username=dikshantnaik&theme=github)
   <h1></h1>
     
     
@@ -97,11 +99,10 @@
   ### Show some ❤️ by starring some of the repositories & following me!
   
   </div>
+  
     
-  ![](https://github.com/Knighthawk-Leo/Knighthawk-Leo/blob/main/footer.png)
-    
-    
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshantnaik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visit" /> </p>
+
  <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=dikshantnaik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Visit" /> </p>
 
   
