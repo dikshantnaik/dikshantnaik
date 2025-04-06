@@ -5,8 +5,10 @@
   </a> -->
   
   
-  - 🔭 I’m currently a Intern at <a href='https://play.google.com/store/apps/details?id=com.cryptograminfotech.cryptogram_messenger'>Cryprogram App</a> as a <b><i> Backend Developer </i> </b>
+ <!--
+  - 🔭 I’m currently a Cloud  at <a href='https://play.google.com/store/apps/details?id=com.cryptograminfotech.cryptogram_messenger'>Cryprogram App</a> as a <b><i> Backend Developer </i> </b>
   - 🌱 I’m currently learning Data Structures and Algorithms.
+  -->
   - 💬 Ask me about Python programming, Automation, BlockChain, DBMS, Linux,Cloud Computing.
   - 📫 How to reach me:<b>Linkedin<b>-<a href='https://www.linkedin.com/in/dikshant-naik-799b1812a/'>Dikshant Naik</a>  Or <b>Instagram<b>-<a href='https://www.instagram.com/dikshant_naik/'>@dikshant_naik</a> 
     
